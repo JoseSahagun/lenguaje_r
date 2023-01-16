@@ -1,2 +1,2 @@
 # lenguaje_r
-Functions to work in R
+Functions to work in twitter with the IDE RStudio 
